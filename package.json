@@ -5,7 +5,7 @@
   "engines": {
     "node": ">=8.0.0"
   },
-  "main": "mod.js",
+  "main": "bot.js",
   "dependencies": {
     "eris": "^0.7.0",
     "pg": "^6.1.2"
